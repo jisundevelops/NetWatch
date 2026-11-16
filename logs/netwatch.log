@@ -1,0 +1,14 @@
+2026-11-16 22:02:43 [INFO] NetWatch started (version 1.0 (Stage 1))
+2026-11-16 22:03:01 [INFO] Connectivity check: PASS (via 1.1.1.1)
+2026-11-16 22:03:34 [INFO] Connectivity check: PASS (via 1.1.1.1)
+2026-11-16 22:04:04 [INFO] NetWatch exited by user
+2026-11-16 22:06:41 [INFO] NetWatch started (version 1.0 (Stage 2))
+2026-11-16 22:07:21 [INFO] Ping google.com: avg=64.657ms loss=0% quality=Good
+2026-11-16 22:08:10 [INFO] NetWatch exited by user
+2026-11-16 22:11:26 [INFO] NetWatch started (version 1.0)
+2026-11-16 22:11:46 [INFO] Connectivity check: PASS (via 1.1.1.1)
+2026-11-16 22:12:44 [INFO] Ping google.com: avg=37.412ms loss=0% quality=Good
+2026-11-16 22:13:27 [INFO] DNS google.com -> 142.251.43.206 in 10ms
+2026-11-16 22:13:57 [INFO] Network info: ip=172.27.57.34 gateway=172.27.48.1 active_interfaces=1
+2026-11-16 22:14:39 [WARN] Port check on 9999:80 cancelled (no authorization confirmation)
+2026-11-16 22:15:01 [INFO] NetWatch exited by user
